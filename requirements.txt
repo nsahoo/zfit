@@ -11,9 +11,9 @@ ordered-set
 pandas
 scipy>=1.2
 tabulate
-tensorflow>=2.5,<2.7
+tensorflow>=2.5,<2.8
 tensorflow-addons
-tensorflow_probability>=0.12,<0.14
+tensorflow_probability>=0.12,<0.15
 texttable
 tf_quant_finance>=v0.0.1-dev24
 uproot>=4,<5
