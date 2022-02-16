@@ -21,6 +21,8 @@ Depreceations
 Bug fixes and small changes
 ---------------------------
 - KDE datasets are now correctly mirrored around observable space limits
+- SimpleLoss correctly supports both functions with implicit and explicit parameters, also if they
+  are decorated.
 
 Experimental
 ------------
